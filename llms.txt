@@ -1,0 +1,28 @@
+# Tiago Quintela
+
+> Staff/Principal software engineer based in Portugal. Embeds with growth-stage companies across SaaS, fintech, telco, and e-commerce. Platform and SRE bias, AI-fluent.
+
+Tiago Quintela (TQ) is a Portuguese software engineer operating at Staff/Principal level. His personal site at quintela.github.io is styled as a Unix man page (`tq(8)`) and documents his background across three modes: `--dev` (hands-on development), `--ops` (platform and SRE), and `--lead` (technical leadership).
+
+## Background
+
+Previously: Principal Engineer & Platform Lead at Bergx2, Tech Lead at Truphone (1Global), Staff Engineer at Reachdesk, Fractional Head of Technology at Mudey. Earlier career at Uphold, Bodum, Sonae, SAPO.pt, Novabase, and ACSS.
+
+## Technical focus areas
+
+- **Development**: Node.js, Python, TypeScript, Ruby on Rails, Java Spring Boot, Perl. React on the frontend. PostgreSQL, MySQL, MariaDB, ClickHouse, Redis, Kafka.
+- **Platform and SRE**: CI/CD pipelines, IaC, observability (OpenTelemetry, Grafana, Loki, Prometheus, Datadog, New Relic). Docker, Kubernetes, AWS, GCP, Azure, DigitalOcean, Hetzner, on-prem.
+- **Security and compliance**: SOC2, ISO 27001, OWASP, SAST/DAST in CI, secrets hygiene, supply-chain discipline.
+- **AI-native development**: prompt engineering, context engineering, eval design, agentic workflows, prompt injection and LLM threat modeling.
+- **Leadership**: architecture decisions, platform strategy, distributed team coordination, technical interviews, mentorship, contractor and agency management.
+
+## Links
+
+- [Personal site (man page)](https://quintela.github.io)
+- [LinkedIn](https://www.linkedin.com/in/tiagoquintela/)
+- [GitHub](https://github.com/quintela)
+- [Option Q](https://optionq.pt)
+
+## Contact
+
+Email: tiago at optionq dot pt
